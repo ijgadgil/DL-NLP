@@ -1,0 +1,8 @@
+streamlit>=1.40
+torch>=2.2
+numpy>=1.26
+pandas>=2.1
+scikit-learn>=1.4
+imbalanced-learn>=0.12
+plotly>=5.20
+pyarrow>=15
